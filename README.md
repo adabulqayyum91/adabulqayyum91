@@ -18,8 +18,9 @@
 <img alt="NodeJS" src="https://img.shields.io/badge/-NodeJS-339933?style=for-the-badge&logo=Node.js&logoColor=white" />
 <img alt="Express Js" src="https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=Express&logoColor=white" />
 <img alt=".NET" src="https://img.shields.io/badge/-.NET-512BD4?style=for-the-badge&logo=.NET&logoColor=white" />
-<img alt="php" src="https://img.shields.io/badge/-php-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+<img alt="php" src="https://img.shields.io/badge/-php-777BB4?style=for-the-badge&logo=php&logoColor=white" /></p>
 <h4>Integrations</h4>
+<p>
 <img alt="Stripe" src="https://img.shields.io/badge/-stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=white" />
 <img alt="twilio" src="https://img.shields.io/badge/-twilio-F22F46?style=for-the-badge&logo=twilio&logoColor=white" />
 <img alt="googlemaps" src="https://img.shields.io/badge/-googlemaps-4285F4?style=for-the-badge&logo=googlemaps&logoColor=white" />
