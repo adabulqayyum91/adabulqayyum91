@@ -5,9 +5,7 @@
 <h3>Things I code with</h3>
 <h4>Languages</h4>
 <p>
-  <img alt="Spring" src="https://img.shields.io/badge/-Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white" />
-  <img alt="Spring Boot" src="https://img.shields.io/badge/-SpringBoot-6DB33F?style=for-the-badge&logo=Spring%20Boot&logoColor=white" />
-  <img alt="Elastic Search" src="https://img.shields.io/badge/-elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white" />
+
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
 <img alt="Java Script" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white" />
   <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
@@ -17,8 +15,7 @@
   <img alt="NestJs" src="https://img.shields.io/badge/-NestJs-ea2845?style=for-the-badge&logo=nestjs&logoColor=white" />
 <img alt="NodeJS" src="https://img.shields.io/badge/-NodeJS-339933?style=for-the-badge&logo=Node.js&logoColor=white" />
 <img alt="Express Js" src="https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=Express&logoColor=white" />
-<img alt=".NET" src="https://img.shields.io/badge/-.NET-512BD4?style=for-the-badge&logo=.NET&logoColor=white" />
-<img alt="php" src="https://img.shields.io/badge/-php-777BB4?style=for-the-badge&logo=php&logoColor=white" /></p>
+</p>
 <h4>Integrations</h4>
 <p>
 <img alt="Stripe" src="https://img.shields.io/badge/-stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=white" />
